@@ -1,7 +1,12 @@
-# Scoop Bucket Template
+# Scoop Bucket SirRobbe
 
-<!-- Uncomment the following line after replacing placeholders -->
-<!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
+This is my custom scoop bucket containing some of my own software as packages.
+
+[![Tests](https://github.com/SirRobbe/scoop-sirrobbe/actions/workflows/ci.yml/badge.svg)](https://github.com/SirRobbe/scoop-sirrobbe/actions/workflows/ci.yml) [![Excavator](https://github.com/SirRobbe/scoop-sirrobbe/actions/workflows/excavator.yml/badge.svg)](https://github.com/SirRobbe/scoop-sirrobbe/actions/workflows/excavator.yml)
+
+# Template
+
+This is the old template content. I will save it for now in case have to look up something.
 
 Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
