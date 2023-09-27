@@ -3,7 +3,6 @@
     "description": "simple build tool to generate unity build files for C++ projects",
     "homepage": "https://gitlab.com/Fleischpostman/umbra",
     "license": "MIT",
-    "bin": "umbra.exe",
     "extract_dir": "build/windows",
     "url": "https://gitlab.com/api/v4/projects/48288072/jobs/artifacts/main/download?job=build_windows"
 }
